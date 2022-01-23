@@ -1,24 +1,7 @@
-# README
+# Demo 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Demo: Rails + [Blazer](https://github.com/ankane/blazer) + ClickHouse adapter
 
-Things you may want to cover:
+https://clickhouse-blazer-demo.herokuapp.com/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using https://clickhouse.com/docs/ru/getting-started/playground/ as data source.
