@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/foxy-eyed/blazer.git
-  revision: cc7fe03bda047db3a31cfcc1a8580257ac845ec1
-  branch: clickhouse_adapter
+  revision: bfba2a43ce520195b056a3aa9f4c23e04740f2aa
+  ref: bfba2a43ce520195b056a3aa9f4c23e04740f2aa
   specs:
     blazer (2.5.0)
       activerecord (>= 5)
@@ -86,7 +86,7 @@ GEM
     dotenv-rails (2.7.6)
       dotenv (= 2.7.6)
       railties (>= 3.2)
-    errbase (0.2.1)
+    errbase (0.2.2)
     erubi (1.10.0)
     faraday (1.9.3)
       faraday-em_http (~> 1.0)

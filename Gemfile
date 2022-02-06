@@ -12,7 +12,7 @@ gem 'pg'
 gem 'click_house'
 
 # Misc (alphabetical order)
-gem 'blazer', git: 'git://github.com/foxy-eyed/blazer.git', branch: 'clickhouse_adapter'
+gem 'blazer', git: 'git://github.com/foxy-eyed/blazer.git', ref: 'bfba2a43ce520195b056a3aa9f4c23e04740f2aa'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'dotenv-rails'
 gem 'sass-rails', '>= 6'

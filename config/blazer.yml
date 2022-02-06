@@ -34,6 +34,7 @@ data_sources:
   clickhouse:
     adapter: clickhouse
     url: "https://playground:clickhouse@play-api.clickhouse.com:8443/datasets"
+    ssl_verify: false
 # create audits
 audit: true
 
